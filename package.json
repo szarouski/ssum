@@ -1,7 +1,18 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.3",
   "name": "ssum",
+  "description": "Command line tool for checksum generation with no dependencies",
   "bin": {
     "ssum": "./index.js"
+  },
+  "keywords": [
+    "ssum",
+    "checksum",
+    "cli",
+    "security"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szarouski/ssum"
   }
 }

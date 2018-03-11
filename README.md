@@ -4,9 +4,10 @@
 
 # Installation
 
-`yarn global add https://github.com/szarouski/ssum` or `npm i https://github.com/szarouski/ssum -g`
+`yarn global add https://github.com/szarouski/ssum` or  
+ `npm i https://github.com/szarouski/ssum -g`
 
-Note that npm package `ssum` only contains README.md and nothing else. This is done on purpose so you install package from github which guarantees that code will be the same as on github.
+Note that `ssum` package **from npm** only contains README.md and nothing else. This is done on purpose so you install package from github. This will ensure that code will be the same as on github as you can't see what you're installing from npm up front.
 
 # Usage
 
